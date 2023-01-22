@@ -32,5 +32,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a> 
   <a href="#" target="_blank"><img src="	https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"></a> 
 </div>          
-<br/>
-<br/>
+
+
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=Rajdeep31&bg_color=151515&color=f7f7f7&line=fa8b00&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
